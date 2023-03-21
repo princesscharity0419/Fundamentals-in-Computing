@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+
+    printf("First Name      : Princess Charity \n");
+    printf("Middle Name     : Aparre \n");
+    printf("Last Name       : Baligyas \n");
+    printf("Date of Birth   : April 19, 2002 \n");
+    printf("Place of Birth  : Cagayan de Oro City \n");
+    printf("Current Address : Cawayan, Lantapan, Bukidnon \n");
+    printf("Mobile Number   : +639067253470 \n");
+    return 0;
+}
